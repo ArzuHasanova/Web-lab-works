@@ -1,0 +1,61 @@
+.main {
+  display: flex;
+}
+img {
+  width: 250px;
+  height: 250px;
+}
+
+h3 {
+  color: rgb(221, 44, 133);
+}
+a {
+  display: block;
+  margin-top: 5px;
+  text-decoration: none;
+  color: rgb(41, 28, 228);
+  display: inline-block;
+  padding: 10px;
+}
+a:hover,
+#submit:hover {
+  color: white;
+  background-color: rgb(41, 28, 228);
+}
+ul li {
+  list-style-type: none;
+}
+ol li {
+  font-size: 20px;
+  margin-bottom: 5px;
+}
+label {
+  margin-right: 15px;
+}
+form ul li {
+  margin: 15px 0;
+}
+input,
+textarea {
+  padding: 10px;
+  margin-top: 10px;
+}
+.links li {
+  display: inline-block;
+}
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td,
+th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
