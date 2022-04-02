@@ -1,0 +1,64 @@
+* {
+  --correct-color: rgb(11, 190, 11);
+  --incorrect-color: rgb(219, 8, 8);
+
+  margin: 2px;
+}
+body {
+  background-image: url(https://png.pngtree.com/thumb_back/fh260/background/20191215/pngtree-modern-double-colors-neon-lights-on-brick-background-image_324803.jpg);
+}
+
+h1 {
+  color: #f0f0f0;
+  font-size: 70px;
+}
+.main-form {
+  margin-bottom: 100px;
+}
+
+.task-container {
+  border-radius: 4px;
+  padding: 10px;
+  background-color: #f0f0f0;
+  margin: 4px;
+}
+
+.task-description {
+  margin-bottom: 10px;
+  font-weight: bold;
+}
+
+.task-description.correct {
+  color: var(--correct-color);
+}
+
+.task-description.incorrect {
+  color: var(--incorrect-color);
+}
+
+.task-options {
+  display: flex;
+  flex-direction: column;
+}
+
+.option-container {
+  width: auto;
+  border-radius: 4px;
+  padding: 10px;
+  margin: 4px;
+  background-color: #e4e4e4;
+}
+
+.option {
+  margin: 0px;
+}
+
+.option.correct {
+  color: var(--correct-color);
+  font-weight: bold;
+}
+
+.option.incorrect {
+  color: var(--incorrect-color);
+  font-weight: bold;
+}
