@@ -28,3 +28,6 @@
 ![image](https://user-images.githubusercontent.com/76260442/161402871-56356a01-485d-4a54-ac77-ea4b210d3856.png)
 
 ![image](https://user-images.githubusercontent.com/76260442/161402946-81c1ec57-d828-436d-a327-6af996f69fb6.png)
+
+# Lab work 5
+![image](https://user-images.githubusercontent.com/76260442/166876875-e810b781-13b7-485a-bc10-db60115a5605.png)
